@@ -1,0 +1,3 @@
+
+createHeaderTable(array);
+fetchDatas()

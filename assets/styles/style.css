@@ -1,0 +1,66 @@
+@font-face {
+    font-family: "CinzelDecorative-Regular";
+    src: url("../fonts/CinzelDecorative-Regular.otf");
+    font-family: "Vierasti Monogram";
+    src: url("../fonts/Vierasti Monogram.ttf");
+    font-family: "Imperator";
+    src: url("../fonts/Imperator.ttf");
+}
+
+body{
+    margin: 0;
+    padding-block: 3em;
+    padding-inline: 1em;
+}
+
+#h1_span{
+    font-size: 3em;
+    font-weight: 100;
+    font-family: "Vierasti Monogram";
+}
+
+h1{
+    font-size: 2em;
+    text-align: center;
+    font-family: "Imperator";
+}
+
+table{
+    font-size: 1.4em;
+    font-weight: 500;
+    margin: 4em;
+    padding-bottom: 10em;
+}
+
+thead{
+    background-color: #ECECEC;
+    text-align: center;
+}
+
+thead td:first-child{
+    width: 15em!important;
+}
+
+thead td:nth-child(even){
+    width: 10em!important;
+}
+
+thead td:nth-child(3){
+    width: 10em!important;
+}
+
+tbody td:nth-child(3){
+    text-align: center;
+}
+
+img{
+    width: 35px;
+    height: 35px;
+}
+
+@media (max-width: 576px) { 
+    tbody td{
+       text-align: center!important;
+       padding-top: 1em;
+    }
+}

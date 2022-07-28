@@ -1,0 +1,476 @@
+[
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "7e9123771f9928ff91071f4e4cb472724a1e3ddd",
+    "fields": {
+      "total": 955,
+      "etat": 0,
+      "ident": 10,
+      "idsurfs": "1382_DEP_8",
+      "nom_parking": "Parking Gare Wodli",
+      "infousager": "OUVERT",
+      "etat_descriptif": "frequentation temps reel indisponible",
+      "libre": 0
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "f9647548fca3599f782c81d6e3aaba97151f996f",
+    "fields": {
+      "total": 3175,
+      "etat": 2,
+      "ident": 1,
+      "idsurfs": "1400_DEP_26",
+      "nom_parking": "Parking Z\u00e9nith",
+      "infousager": "FERME",
+      "etat_descriptif": "Ferm\u00e9",
+      "libre": 3174
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "bdf8e078cb4546b6ed801158a77d0a150afe6187",
+    "fields": {
+      "total": 460,
+      "etat": 1,
+      "ident": 3,
+      "idsurfs": "1378_DEP_4",
+      "nom_parking": "Parking Centre Op\u00e9ra Broglie",
+      "infousager": "60",
+      "etat_descriptif": "Ouvert",
+      "libre": 63,
+      "realtimestatus": "ORANGE"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "0fa60c958ea23231b8fa938f9e0506a2824b3d53",
+    "fields": {
+      "total": 460,
+      "etat": 1,
+      "ident": 4,
+      "idsurfs": "1376_DEP_2",
+      "nom_parking": "Parking Baggersee",
+      "infousager": "340",
+      "etat_descriptif": "Ouvert",
+      "libre": 347,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "65d46835778f5a1bc3c7e6837451a17de2148ff1",
+    "fields": {
+      "total": 267,
+      "etat": 1,
+      "ident": 2,
+      "idsurfs": "1377_DEP_3",
+      "nom_parking": "Parking Bateliers",
+      "infousager": "90",
+      "etat_descriptif": "Ouvert",
+      "libre": 96,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "d03f6b782c8a9c1b0c52dd5f1efc00a82f7ac146",
+    "fields": {
+      "total": 464,
+      "etat": 1,
+      "ident": 21,
+      "idsurfs": "1375_DEP_1",
+      "nom_parking": "Parking Austerlitz",
+      "infousager": "50",
+      "etat_descriptif": "Ouvert",
+      "libre": 56,
+      "realtimestatus": "ORANGE"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "b0ab4b92f5e49eef89fd317aa9a9d312f44455c2",
+    "fields": {
+      "total": 233,
+      "etat": 1,
+      "ident": 11,
+      "idsurfs": "1383_DEP_9",
+      "nom_parking": "Parking Gutenberg",
+      "infousager": "9",
+      "etat_descriptif": "Ouvert",
+      "libre": 9,
+      "realtimestatus": "RED"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "8c4f8f905344d93abcab4ae147c7605d98e828a0",
+    "fields": {
+      "total": 467,
+      "etat": 0,
+      "ident": 12,
+      "idsurfs": "1388_DEP_14",
+      "nom_parking": "Parking Kleber Homme de fer",
+      "infousager": "OUVERT",
+      "etat_descriptif": "frequentation temps reel indisponible",
+      "libre": 0
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "af1b5023978e09bfee1c2a9565739d3dcb7818c9",
+    "fields": {
+      "total": 534,
+      "etat": 1,
+      "ident": 13,
+      "idsurfs": "1384_DEP_10",
+      "nom_parking": "Parking Halles P1 Marais vert",
+      "infousager": "420",
+      "etat_descriptif": "Ouvert",
+      "libre": 426,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "4e885cc24dc29c503e43f1c3ba26837eb17395a0",
+    "fields": {
+      "total": 496,
+      "etat": 1,
+      "ident": 14,
+      "idsurfs": "1385_DEP_11",
+      "nom_parking": "Parking P2 Sebastopol",
+      "infousager": "120",
+      "etat_descriptif": "Ouvert",
+      "libre": 121,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "78d08d580a6a4a8c2c3ce86fa0e5ff789bf27c5a",
+    "fields": {
+      "total": 92,
+      "etat": 1,
+      "ident": 15,
+      "idsurfs": "1393_DEP_19",
+      "nom_parking": "Parking Robertsau Boecklin",
+      "infousager": "50",
+      "etat_descriptif": "Ouvert",
+      "libre": 59,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "0dae7780f57b065308cb5dca98d2d82358394e6d",
+    "fields": {
+      "total": 190,
+      "etat": 1,
+      "ident": 16,
+      "idsurfs": "1389_DEP_15",
+      "nom_parking": "Parking Krimmeri Stade de la Meinau",
+      "infousager": "140",
+      "etat_descriptif": "Ouvert",
+      "libre": 148,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "d8f3b5e1efc971902d8ded5cbfc05cc4cd90d690",
+    "fields": {
+      "total": 939,
+      "etat": 1,
+      "ident": 17,
+      "idsurfs": "1390_DEP_16",
+      "nom_parking": "Parking Centre historique Petite France",
+      "infousager": "370",
+      "etat_descriptif": "Ouvert",
+      "libre": 377,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "2abecc7ad3e4c16c8a2b575f2f1325569bb2b3c9",
+    "fields": {
+      "total": 456,
+      "etat": 1,
+      "ident": 18,
+      "idsurfs": "1391_DEP_17",
+      "nom_parking": "Parking Rives de l'Aar",
+      "infousager": "340",
+      "etat_descriptif": "Ouvert",
+      "libre": 343,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "6258d3792b2be9b2e4d4d6b32639d1e0e6a2f1af",
+    "fields": {
+      "total": 360,
+      "etat": 1,
+      "ident": 19,
+      "idsurfs": "1395_DEP_21",
+      "nom_parking": "Parking Saint Nicolas",
+      "infousager": "216",
+      "etat_descriptif": "Ouvert",
+      "libre": 216,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "f15526759f8eda212dc212942f38792db038bed1",
+    "fields": {
+      "total": 180,
+      "etat": 0,
+      "ident": 20,
+      "idsurfs": "1397_DEP_23",
+      "nom_parking": "Parking Tanneurs",
+      "infousager": "OUVERT",
+      "etat_descriptif": "frequentation temps reel indisponible",
+      "libre": 0
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "554e3aee0f59790cfa020f25a9eb3ed3ce17c21e",
+    "fields": {
+      "total": 600,
+      "etat": 1,
+      "ident": 5,
+      "idsurfs": "1379_DEP_5",
+      "nom_parking": "Parking Ducs d'Alsace",
+      "infousager": "470",
+      "etat_descriptif": "Ouvert",
+      "libre": 474,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "d44179d964d157918584df8becd10f5320f9690c",
+    "fields": {
+      "total": 220,
+      "etat": 1,
+      "ident": 6,
+      "idsurfs": "1380_DEP_6",
+      "nom_parking": "Parking Elsau",
+      "infousager": "110",
+      "etat_descriptif": "Ouvert",
+      "libre": 116,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "af7c9f9fa60f35449f50295f10f3162c24dbf70b",
+    "fields": {
+      "total": 450,
+      "etat": 1,
+      "ident": 7,
+      "idsurfs": "1394_DEP_20",
+      "nom_parking": "Parking Rotonde",
+      "infousager": "70",
+      "etat_descriptif": "Ouvert",
+      "libre": 77,
+      "realtimestatus": "ORANGE"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "6fd7b9b9ad105c763c1353cb7e8eff4cb99ac4b5",
+    "fields": {
+      "total": 188,
+      "etat": 0,
+      "ident": 8,
+      "idsurfs": "1381_DEP_7",
+      "nom_parking": "Parking Gare courte dur\u00e9e",
+      "infousager": "OUVERT",
+      "etat_descriptif": "frequentation temps reel indisponible",
+      "libre": 0
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "68ac82fbaf914a8c50162fcfc1ae02b487ae69b3",
+    "fields": {
+      "total": 557,
+      "etat": 1,
+      "ident": 9,
+      "idsurfs": "1396_DEP_22",
+      "nom_parking": "Parking Sainte Aur\u00e9lie Gare",
+      "infousager": "240",
+      "etat_descriptif": "Ouvert",
+      "libre": 247,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "6faab52420476e82ab2dde91a4cadd0725aa633e",
+    "fields": {
+      "total": 1211,
+      "etat": 1,
+      "ident": 22,
+      "idsurfs": "1386_DEP_12",
+      "nom_parking": "Parking P3 Wilson",
+      "infousager": "810",
+      "etat_descriptif": "Ouvert",
+      "libre": 811,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "99f2815ad6b2c13febaa43effd802f3c8e90754f",
+    "fields": {
+      "total": 340,
+      "etat": 1,
+      "ident": 24,
+      "idsurfs": "1387_DEP_13",
+      "nom_parking": "Parking Hoenheim gare",
+      "infousager": "190",
+      "etat_descriptif": "Ouvert",
+      "libre": 194,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "81db8b0ad461c3ec5aa6f1db4931305a0f099895",
+    "fields": {
+      "total": 107,
+      "etat": 1,
+      "ident": 25,
+      "idsurfs": "1398_DEP_24",
+      "nom_parking": "Parking Poteries",
+      "infousager": "50",
+      "etat_descriptif": "Ouvert",
+      "libre": 53,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "c92613adc182ac04f84877136569ea68e6a5d4c9",
+    "fields": {
+      "total": 170,
+      "etat": 1,
+      "ident": 26,
+      "idsurfs": "1399_DEP_25",
+      "nom_parking": "Parking Espace europ\u00e9en de l'entreprise",
+      "infousager": "150",
+      "etat_descriptif": "Ouvert",
+      "libre": 158,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "3e19deedb91df1924ebe607962fbb6412106e084",
+    "fields": {
+      "total": 1132,
+      "etat": 1,
+      "ident": 23,
+      "idsurfs": "1392_DEP_18",
+      "nom_parking": "Parking Rivetoile",
+      "infousager": "810",
+      "etat_descriptif": "Ouvert",
+      "libre": 819,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "02f785e1f2d1fba19edbfefa219ccc151cff3c2f",
+    "fields": {
+      "total": 251,
+      "etat": 1,
+      "ident": 27,
+      "idsurfs": "1703_DEP_27",
+      "nom_parking": "P1 Esplanade - Centre commercial",
+      "infousager": "190",
+      "etat_descriptif": "Ouvert",
+      "libre": 195,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "9b7a4335d83de4c9142a7d5a4675760dfcecf010",
+    "fields": {
+      "total": 800,
+      "etat": 0,
+      "ident": 28,
+      "idsurfs": "1706_DEP_28",
+      "nom_parking": "Parking H\u00f4pital Hautepierre",
+      "infousager": "OUVERT",
+      "etat_descriptif": "frequentation temps reel indisponible",
+      "libre": 0
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "e53bbb1b1f4e0c0124e579fa8e12847aabe3f895",
+    "fields": {
+      "total": 719,
+      "etat": 1,
+      "ident": 30,
+      "idsurfs": "2413_DEP_59",
+      "nom_parking": "Parking Coubertin",
+      "infousager": "510",
+      "etat_descriptif": "Ouvert",
+      "libre": 510,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  },
+  {
+    "datasetid": "occupation-parkings-temps-reel",
+    "recordid": "e125f43c768732556dbac5c26632ad9638efdcb8",
+    "fields": {
+      "total": 324,
+      "etat": 1,
+      "ident": 31,
+      "idsurfs": "2356_DEP_38",
+      "nom_parking": "Parking Parc des romains",
+      "infousager": "240",
+      "etat_descriptif": "Ouvert",
+      "libre": 245,
+      "realtimestatus": "GREEN"
+    },
+    "record_timestamp": "2022-07-27T14:33:00.636+02:00"
+  }
+]
